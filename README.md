@@ -1,6 +1,6 @@
 # analyse-des-ventes-pour-un-e-commerce
 Analyse des ventes pour un e-commerce
-Le Grand Marché, une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). 
+Une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). 
 Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.
 Le travail consiste sur les points suivants :
 - la proportion des ventes par catégorie de produit ;
